@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there 👋
 
 My name is Rino, and I am a mathematics student who love to learn about technology. I currently live in Bogor, Indonesia.
 
@@ -6,7 +6,7 @@ Not only I am passionate in the data-related field but I also have a huge intere
 
 I work mainly with Python due to its readability and wide range of applications that intersect with my interests.
 
-### Fields of Interest
+## Fields of Interest
 - Data Analysis
 - Data Scientist
   - Machine Learning
@@ -14,14 +14,14 @@ I work mainly with Python due to its readability and wide range of applications 
 - Web Development
   - Backend Engineering
 
-### Language Familiarity
+## Language Familiarity
 - Python
 - SQL
 - HTML-CSS-JavaScript
 - C
 - Pascal
 
-### Learning List
+## Learning List
 - Frontend Engineering (React)
 - Data Engineering
 - Cloud Computing
