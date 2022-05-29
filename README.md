@@ -2,7 +2,7 @@
 
 My name is Rino, and I am a mathematics student who love to learn about technology. I currently live in Bogor, Indonesia.
 
-I have a passion in data-related field and also a huge interest in web development.
+Not only I am passionate in the data-related field but I also have a huge interest in web development.
 
 I work mainly with Python due to its readability and wide range of applications that intersect with my interests.
 
