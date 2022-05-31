@@ -14,13 +14,6 @@ I work mainly with Python due to its readability and wide range of applications 
 - Web Development
   - Backend Engineering
 
-## Language Familiarity
-- Python
-- SQL
-- HTML-CSS-JavaScript
-- C
-- Pascal
-
 ## Learning List
 - Frontend Engineering (React)
 - Data Engineering
