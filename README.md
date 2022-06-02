@@ -6,7 +6,7 @@ Not only I am passionate in the data-related field but I also have a huge intere
 
 I work mainly with Python due to its readability and wide range of applications that intersect with my interests.
 
-## Fields of Interest
+<!-- ## Fields of Interest
 - Data Analysis
 - Data Scientist
   - Machine Learning
@@ -18,7 +18,7 @@ I work mainly with Python due to its readability and wide range of applications 
 - Frontend Engineering (React)
 - Data Engineering
 - Cloud Computing
-- Parallel Computing
+- Parallel Computing -->
 
 <!--
 **rinogrego/rinogrego** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
