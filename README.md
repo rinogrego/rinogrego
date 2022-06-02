@@ -1,6 +1,6 @@
 # Hi there 👋
 
-My name is Rino, and I am a mathematics student who love to learn about technology. I currently live in Bogor, Indonesia.
+My name is Rino, a mathematics student who love to learn about technology. I currently live in Bogor, Indonesia.
 
 Not only I am passionate in the data-related field but I also have a huge interest in web development.
 
