@@ -2,9 +2,9 @@
 
 My name is Rino, a mathematics student who love to learn about technology. I currently live in Bogor, Indonesia.
 
-I have a passion in data-related fields such as data analysis, data scientist, and data engineering. I also know a bit about web development because of my curiosity and desire to learn about technology, with preference in the backend side. I work mainly with Python due to its readability and wide range of applications that intersect with my interests. 
+I have deep interests in data-related fields, specifically data science, machine learning engineering, and data analytics. I also know a bit about web development because of my curiosity and desire to learn about technology, with preference in the backend side. I mainly used Python due to its readability and wide range of applications that intersect with my interests.
 
-Planning to learn React, DevOps, and Parallel Computing.
+Things-to-learn: React, DevOps/MLOps, and Parallel Computing.
 
 <!-- ## Fields of Interest
 - Data Analysis
